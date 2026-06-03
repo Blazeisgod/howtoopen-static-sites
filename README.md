@@ -23,7 +23,7 @@ How to (B)
  
  2B. go to your github site
  
- 3B. after the [repository name] of your github pages url, enter your [html file name] after words
+ 3B. after the [repository name] of your github pages url, enter your [html file name] afterwards
  
  4B. If something loads, but incorrectly, your on the right track.
  
