@@ -11,7 +11,7 @@ Req: It has an html file, and doesn't have other file types included besides rea
  2A. enter [username].github.io/[repository name]/[html file name] 
  <img width="556" height="29" alt="image" src="https://github.com/user-attachments/assets/402d5cee-7712-465d-90c2-447e02a5be09" />
 
- 3A. If something loads, congrats, your smart and you have common sense
+ 3A. If something loads, congrats, your smart and you have common sense, if something doesn't, then either no website has been deployed or you're just an idiot
 
 ---------------------------
 
